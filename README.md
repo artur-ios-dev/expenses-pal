@@ -1,16 +1,18 @@
-# expenses_pal
+![Logo](/images/ep-logo.jpeg)
 
-A new Flutter project.
+# Expenses Pal
 
-## Getting Started
+![Screenshot](/images/exp-pal.jpeg)
 
-This project is a starting point for a Flutter application.
+Who does not like to spend money on various things? Do we nowadays control ourselves or just do not care and randomly spend hard earned money? If you want to keep a track of your expenses and want to get a better understanding where your money goes, this app is for you.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
+- Add your expenses and check the history
+- Filter your expenses by date or tags
+- Check statistics of your expenses
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+It is simple and lightweight. Only core functionalities.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+
+- Flutter
