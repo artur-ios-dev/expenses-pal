@@ -1,5 +1,3 @@
-![Logo](/images/ep-logo.jpeg)
-
 # Expenses Pal
 
 ![Screenshot](/images/exp-pal.jpeg)
