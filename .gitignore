@@ -1,24 +1,8 @@
-# Miscellaneous
-*.class
-*.lock
-*.log
-*.pyc
-*.swp
-.DS_Store
-.atom/
-.buildlog/
-.history
-.svn/
 
-# IntelliJ related
-*.iml
-*.ipr
-*.iws
-.idea/
+# Created by https://www.gitignore.io/api/flutter
+# Edit at https://www.gitignore.io/?templates=flutter
 
-# Visual Studio Code related
-.vscode/
-
+### Flutter ###
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
@@ -69,3 +53,6 @@ build/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+# End of https://www.gitignore.io/api/flutter
+ios/Flutter/flutter_export_environment.sh
